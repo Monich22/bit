@@ -3,27 +3,33 @@ body{
 }
 header,footer{
     position: absolute;
-    color: brown;
+    color: rgb(19, 14, 14);
 background-color: blue;
     width: 100%;
+  
 }
 *{
     margin: 0;
     padding: 0;
+}
     .image {
         width: 200px;
         height: 180px;
-        border-radius: 10px;
+        border-radius: 5px;
         text-align: centre;
+        
+       
 
     
 }
 header{
-    height: 20vh;
+    height: 10vh;
+   
 }
 footer{
-    height: 25vh;
+    height: 10vh;
     bottom: 0;
+   
 }
 footer h1{
     position: absolute;
